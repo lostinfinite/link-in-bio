@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Contents Socials',
   description: 'See our socials!',
   icons: {
-    icon: '/favicon.png',
+    icon: '/favicon.ico',
   },
 }
 
